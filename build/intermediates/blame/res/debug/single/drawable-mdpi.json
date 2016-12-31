@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Nitish\\Downloads\\Github Projects\\New Project\\application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_drawer.png",
+        "source": "C:\\Users\\Nitish\\Downloads\\Github Projects\\New Project\\application\\src\\main\\res\\drawable-mdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\Nitish\\Downloads\\Github Projects\\New Project\\application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\stop_vtn.png",
+        "source": "C:\\Users\\Nitish\\Downloads\\Github Projects\\New Project\\application\\src\\main\\res\\drawable-mdpi\\stop_vtn.png"
+    },
+    {
+        "merged": "C:\\Users\\Nitish\\Downloads\\Github Projects\\New Project\\application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\drawer_shadow.9.png",
+        "source": "C:\\Users\\Nitish\\Downloads\\Github Projects\\New Project\\application\\src\\main\\res\\drawable-mdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Nitish\\Downloads\\Github Projects\\New Project\\application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_device_access_bluetooth_searching.png",
+        "source": "C:\\Users\\Nitish\\Downloads\\Github Projects\\New Project\\application\\src\\main\\res\\drawable-mdpi\\ic_action_device_access_bluetooth_searching.png"
+    },
+    {
+        "merged": "C:\\Users\\Nitish\\Downloads\\Github Projects\\New Project\\application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Nitish\\Downloads\\Github Projects\\New Project\\application\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Nitish\\Downloads\\Github Projects\\New Project\\application\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Nitish\\Downloads\\Github Projects\\New Project\\application\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nitish\\Downloads\\Github Projects\\New Project\\application\\build\\intermediates\\res\\merged\\debug\\menu\\bluetooth_chat.xml",
+        "source": "C:\\Users\\Nitish\\Downloads\\Github Projects\\New Project\\application\\src\\main\\res\\menu\\bluetooth_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nitish\\Downloads\\Github Projects\\New Project\\application\\build\\intermediates\\res\\merged\\debug\\menu\\device_control_activity.xml",
+        "source": "C:\\Users\\Nitish\\Downloads\\Github Projects\\New Project\\application\\src\\main\\res\\menu\\device_control_activity.xml"
+    }
+]

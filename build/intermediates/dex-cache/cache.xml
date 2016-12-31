@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nitish\Downloads\Github Projects\New Project\application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="556ec063cfce2282476f7aa409a37ae8d680e8d1">
+        <dex dex="C:\Users\Nitish\Downloads\Github Projects\New Project\application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9922783d42432c818f51fb17e2fc3b5cc8727641\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nitish\gradle-2.14\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.1.6\b036abbb61656165da99cf44898e4b9123687e65\MPAndroidChart-v2.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b036abbb61656165da99cf44898e4b9123687e65">
+        <dex dex="C:\Users\Nitish\Downloads\Github Projects\New Project\application\build\intermediates\transforms\dex\debug\folders\1000\10\MPAndroidChart-v2.1.6_6e83fe13f245ef7a9cfc8d0c09ad6dbc4c9eb511\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nitish\Downloads\Github Projects\New Project\application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Nitish\Downloads\Github Projects\New Project\application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_6d036bc192d138af6b0a98130568c56d3dfe5f5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nitish\Downloads\Github Projects\New Project\application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c83fbde55c05bc186002d7ce3570d619c3d6ee1f">
+        <dex dex="C:\Users\Nitish\Downloads\Github Projects\New Project\application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-gridlayout-v7-25.1.0_01d1b06e604fc9c72b333201e9d57ee86ee01ce6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nitish\Downloads\Github Projects\New Project\application\build\intermediates\exploded-aar\uk.co.chrisjenx\calligraphy\2.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ebcb0bcf52fab7c586f39717f7cb8de91748b1b1">
+        <dex dex="C:\Users\Nitish\Downloads\Github Projects\New Project\application\build\intermediates\transforms\dex\debug\folders\1000\10\uk.co.chrisjenx-calligraphy-2.2.0_91e85903840ac2996778b84afbc5d1100d512796\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nitish\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Nitish\Downloads\Github Projects\New Project\application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_8367a72f0048ca9c6bd791939601a961532a1dc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nitish\Downloads\Github Projects\New Project\application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Nitish\Downloads\Github Projects\New Project\application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_87648d8cbeeea6eea3a125a49a6f62dfb77950ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nitish\Downloads\Github Projects\New Project\application\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Nitish\Downloads\Github Projects\New Project\application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_4bb2d0acb946c0154fec5babc9ad45d149e77a71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nitish\Downloads\Github Projects\New Project\application\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="C:\Users\Nitish\Downloads\Github Projects\New Project\application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.1.0_9d3ef2426623515fda91e3374f0001a576c5e91c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nitish\Downloads\Github Projects\New Project\application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Nitish\Downloads\Github Projects\New Project\application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_9d76b682afd07393ab9d5eabf262202dee394226\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nitish\Downloads\Github Projects\New Project\application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Nitish\Downloads\Github Projects\New Project\application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_df498c204d5523e0968134e27d7c0cf414720da7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nitish\Downloads\Github Projects\New Project\application\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Nitish\Downloads\Github Projects\New Project\application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_c8fbc3cf9771b46469d989df9e29a3620aa114dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nitish\Downloads\Github Projects\New Project\application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Nitish\Downloads\Github Projects\New Project\application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_564b8b1b89e0bc10c616920b1726a63c536751d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nitish\Downloads\Github Projects\New Project\application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Nitish\Downloads\Github Projects\New Project\application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_95f16c2e7b9ce35a9bcae3127673b68781abb7d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nitish\Downloads\Github Projects\New Project\application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Nitish\Downloads\Github Projects\New Project\application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_f483f4e39b60c9d97e6468c5c778f2eaa9743e55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nitish\Downloads\Github Projects\New Project\application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ce19ac0261bd487599747ef8ac881c4600075219">
+        <dex dex="C:\Users\Nitish\Downloads\Github Projects\New Project\application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f1f62748e9c76caa035112382026cf323b610614\classes.dex" />
+    </item>
+
+</items>

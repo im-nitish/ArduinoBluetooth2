@@ -1,0 +1,7 @@
+#Sat Dec 31 23:47:47 IST 2016
+base.0=C\:\\Users\\Nitish\\Downloads\\Github Projects\\New Project\\application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9922783d42432c818f51fb17e2fc3b5cc8727641
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Nitish\\Downloads\\Github Projects\\New Project\\application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f1f62748e9c76caa035112382026cf323b610614\\classes.dex
+base.1=C\:\\Users\\Nitish\\Downloads\\Github Projects\\New Project\\application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f1f62748e9c76caa035112382026cf323b610614
+file.0=C\:\\Users\\Nitish\\Downloads\\Github Projects\\New Project\\application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9922783d42432c818f51fb17e2fc3b5cc8727641\\classes.dex
